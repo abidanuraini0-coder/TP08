@@ -22,4 +22,4 @@ Alasan pemilihan:Karakter dengan pertahanan kuat dan kemampuan bertahan hidup ti
 Kesimpulan: Penambahan Assassin level 40 dan Paladin level 50 membuat jumlah karakter menjadi lima. Level kedua karakter baru juga memengaruhi perhitungan rata-rata level secara otomatis,
 sehingga statistik pada MainWindow akan diperbarui sesuai data yang dikelola oleh CharacterManager
 
-https://1drv.ms/w/c/ACEA0258ECD9ACB9/IQCkgSEQK5ZMQLZTNUKrQsTPAcVjs1zjawx5umytOn84YhI?e=J58NMI
+https://docs.google.com/document/d/1leyUWFpan0bhNa1Ca5KwHS6zJ7V0Z0g1X_GOHhLh2ik/edit?usp=sharing
